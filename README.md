@@ -1,1 +1,1 @@
-# comparing-baltimoremd-hartfordct-household-income
+# Comparing Baltimore, MD and Hartford CT's Household Income
